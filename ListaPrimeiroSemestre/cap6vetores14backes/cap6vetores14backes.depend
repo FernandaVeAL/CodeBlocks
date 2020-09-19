@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538683249 source:c:\users\fernanda\documents\codeblocks\listaprimeirosemestre\cap6vetores14backes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

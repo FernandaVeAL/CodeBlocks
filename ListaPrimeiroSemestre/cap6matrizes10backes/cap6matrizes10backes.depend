@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539384607 source:c:\users\fernanda\documents\codeblocks\listaprimeirosemestre\cap6matrizes10backes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
